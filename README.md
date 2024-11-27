@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Chinese programmer, currently serving as the President of the Boys' Student Union at Zhejiang-Fuling Friendship School (Junior High Division) and the Head of the Student Autonomous Planning Group for School Network IT Technology.
+Chinese programmer
 
 <--**HeDaoComrade/HeDaoComrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
